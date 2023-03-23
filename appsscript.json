@@ -1,0 +1,17 @@
+{
+  "timeZone": "America/Vancouver",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+
+  "dataStudio": {
+    "name": "Shortcut Velocity",
+    "logoUrl": "https://media.licdn.com/dms/image/C560BAQFzaQkhwxhasg/company-logo_200_200/0/1631047142614?e=1687392000&v=beta&t=sL0Xjo3YBc5F8qYO4Xlly_WHGQXWbCRmt3rRK33sqVQ",
+    "company": "Stefan Antal",
+    "companyUrl": "https://stefanantal.com",
+    "addonUrl": "https://tbd",
+    "supportUrl": "https://tbd",
+    "description": "Visualzie a team's velocity by analyzing completed Shortcut stories.",
+    "authType": ["KEY"],
+    "feeType": ["FREE"]
+  }
+}
